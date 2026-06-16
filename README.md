@@ -123,5 +123,5 @@ home_goals_conceded_per_game, away_goals_conceded_per_game
 ---
 
 **Version:** 1.0  
-**Status:** MVP - Ready for testing  
-**Author:** Senior ML Engineer
+**Status:** Production Stage
+**Author:** Aditya Chaudhary
